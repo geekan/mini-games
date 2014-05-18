@@ -1,10 +1,15 @@
 迷你游戏
 ==========
 
-####迷你游戏站点
+####中文站点
 
 * http://www.u77.com/
 * http://wanga.me/
+
+####英文站点
+
+* http://armorgames.com/
+* http://www.kongregate.com/
 
 ####视频解说
 
