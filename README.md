@@ -22,3 +22,4 @@
 
 * 僵尸实验室 http://www.u77.com/game/1679
 * 国王联赛：奥德赛 http://www.u77.com/game/486
+* 夺城之誓：中世纪 [中文版](http://wanga.me/38980) [英文原版](http://armorgames.com/play/15866/decision-medieval)
